@@ -10,3 +10,4 @@ function onPlay({seconds}) {
 };
 
 player.setCurrentTime(localStorage.getItem('videoplayer-current-time'));
+
